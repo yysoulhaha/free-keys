@@ -8,6 +8,14 @@
    "activated_at": null,
    "revoked": false,
    "note": "publisher self-device bootstrap 2026-09-06"
+  },
+  "VIP30D-9461416A": {
+   "days": 30,
+   "expires_at": "2026-10-07",
+   "device_id": null,
+   "activated_at": null,
+   "revoked": false,
+   "note": ""
   }
  }
 }
