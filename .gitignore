@@ -1,2 +1,3 @@
 *.json
 !*.enc.json
+!activation-state.json

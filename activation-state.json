@@ -1,0 +1,13 @@
+{
+ "version": 1,
+ "codes": {
+  "VIP1M-3C6506B6": {
+   "days": 30,
+   "expires_at": "2026-10-01",
+   "device_id": "GW-43FC66D6961A4083",
+   "activated_at": null,
+   "revoked": false,
+   "note": "publisher self-device bootstrap 2026-09-06"
+  }
+ }
+}
