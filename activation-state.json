@@ -32,6 +32,14 @@
    "activated_at": null,
    "revoked": false,
    "note": ""
+  },
+  "VIP7D-A010095A": {
+   "days": 7,
+   "expires_at": "2026-09-15",
+   "device_id": null,
+   "activated_at": null,
+   "revoked": false,
+   "note": ""
   }
  }
 }
