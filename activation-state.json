@@ -40,6 +40,14 @@
    "activated_at": 1788820577.6083913,
    "revoked": false,
    "note": ""
+  },
+  "VIP30D-3857B047": {
+   "days": 30,
+   "expires_at": "2026-10-08",
+   "device_id": null,
+   "activated_at": null,
+   "revoked": false,
+   "note": ""
   }
  }
 }
