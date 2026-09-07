@@ -16,6 +16,14 @@
    "activated_at": null,
    "revoked": false,
    "note": ""
+  },
+  "VIP30D-6853A066": {
+   "days": 30,
+   "expires_at": "2026-10-07",
+   "device_id": null,
+   "activated_at": null,
+   "revoked": false,
+   "note": ""
   }
  }
 }
