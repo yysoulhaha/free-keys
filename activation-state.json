@@ -40,6 +40,14 @@
    "activated_at": null,
    "revoked": false,
    "note": ""
+  },
+  "VIP7D-86845D83": {
+   "days": 7,
+   "expires_at": "2026-09-15",
+   "device_id": null,
+   "activated_at": null,
+   "revoked": false,
+   "note": ""
   }
  }
 }
