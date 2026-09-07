@@ -35,9 +35,9 @@
   },
   "VIP30D-4C426835": {
    "days": 30,
-   "expires_at": "2026-10-08",
+   "expires_at": "2026-11-07",
    "device_id": null,
-   "activated_at": null,
+   "activated_at": 1788820556.9750445,
    "revoked": false,
    "note": ""
   }
